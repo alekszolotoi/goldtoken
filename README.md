@@ -1,2 +1,2 @@
 # goldtoken
-token gold party
+token gold 
